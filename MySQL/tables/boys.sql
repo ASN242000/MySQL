@@ -1,6 +1,7 @@
 # Dump of table boys
 # ------------------------------------------------------------
 
+use joins;
 CREATE TABLE `boys` (
   `boy_id` int(11) default NULL,
   `boy` varchar(20) default NULL,
